@@ -1,7 +1,8 @@
 # reflection-phase-change
 reflection-phase-change
 
-Faraday Rotator
+Faraday Rotator:
+Laterally polarized light is converted to vertically polarized light by passing through a 45° Faraday rotator twice through a reflective optical system.
 ![download1](https://user-images.githubusercontent.com/30459885/208802562-18b5025e-1bb4-4796-8a5d-5d04c8fc8fe2.png)
 
 Quarter Waveplate
