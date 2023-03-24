@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.ipynb_checkpoints"
   ],
+  "SelectedNode": "\\Polarimeter_def.py",
   "PreviewInSolutionExplorer": false
 }
