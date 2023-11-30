@@ -143,15 +143,18 @@ ax4.set_ylim(-1,1)
 
 def update1(frame):
     # for each frame, update the data stored on each artist.
-    x = t[:frame]
-    y = z[:frame]
+    x = E1x_col[:frame]
+    y = E1y_col[:frame]
     # update the scatter plot:
     data = np.stack([x, y]).T
-    scat.set_offsets(data)
+    ax1.set_offsets(data)
     # update the line plot:
-    line2.set_xdata(t[:frame])
-    line2.set_ydata(z2[:frame])
-    return (scat, line2)
+    #line2.set_xdata(t[:frame])
+    #line2.set_ydata(z2[:frame])
+    return (ax1)#scat, line2)
+
+
+ani = animation.FuncAnimation(fig=fig, func=update1, frames=40, interval=30)
 
 plt.show()
 
