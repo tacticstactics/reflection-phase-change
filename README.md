@@ -1,6 +1,13 @@
 # reflection-phase-change
 reflection-phase-change
 
+
+
+https://github.com/user-attachments/assets/f3c9d069-2d34-4c35-bc8a-50c46cf221ad
+
+
+
+
 In optics, when tracking polarization, it is important how reflections change the polarization state. There are two ways to change the polarization: using a Faraday rotor and a 1/2 wave plate, but the purpose is to make the difference visually easier to understand.
 
 Faraday Rotator:
