@@ -1,4 +1,3 @@
-#Polarimeter_def.py
 
 #from errno import EINPROGRESS
 from ftplib import parse150
